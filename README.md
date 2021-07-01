@@ -1,11 +1,12 @@
 # MLOps: Machine Learning in production
-The serie is focused on on tools, data infrastructure and best practices,
+The serie is focused on on tools, data infrastructure and good practices,
 to develop, iterate and operate ML in production.
 
 ## Content
-- [MLOps: Machine Learning in production](/)
+- [System Design For Model Deployment to Production](/system_design_for_model_deployment_to_production)
 
 ## Content roadmap
+- MLOps: Machine Learning in production
 - How to setup on AWS basic cloud infrastructure and data management
 - How to setup on-premise basic infrastructure
 - How to setup ingestion pipeline
